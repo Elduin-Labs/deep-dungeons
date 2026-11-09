@@ -1,8 +1,8 @@
-package com.example.modtemplate.platform.fabric;
+package com.elduin.deep_dungeons.platform.fabric;
 
 //? fabric {
 
-import com.example.modtemplate.event.ExampleEventHandler; // sample_content
+import com.elduin.deep_dungeons.event.ExampleEventHandler; // sample_content
 import net.fabricmc.fabric.api.entity.event.v1.ServerLivingEntityEvents; // sample_content
 import net.minecraft.server.level.ServerPlayer; // sample_content
 

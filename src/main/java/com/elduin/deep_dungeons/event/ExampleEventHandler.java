@@ -1,6 +1,6 @@
-package com.example.modtemplate.event;
+package com.elduin.deep_dungeons.event;
 
-import com.example.modtemplate.ModTemplate;
+import com.elduin.deep_dungeons.ModTemplate;
 import net.minecraft.server.level.ServerPlayer;
 
 public class ExampleEventHandler {
